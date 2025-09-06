@@ -2,7 +2,7 @@
 
 A tiny AngryFlappy Bird clone built with vanilla HTML, CSS, and JavaScript. Navigate through US bank, Los Angeles while avoiding collisions in this classic endless runner game.
 
-**Play:** Open `index.html` in your browser to start playing!
+**Play:** https://mokshitchopra.github.io/angryflappy-bird/
 
 ## Controls
 - **Any Key**: Make the bird jump/flap
